@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkindex"]=self["webpackChunkindex"]||[]).push([[518],{4518:function(n,u,e){e.r(u),e.d(u,{default:function(){return f}});var t=e(6768);const a={class:"about auto"},r=(0,t.Lk)("h1",null,"This is an about page",-1),s=[r];function c(n,u){return(0,t.uX)(),(0,t.CE)("div",a,s)}var i=e(1241);const o={},d=(0,i.A)(o,[["render",c]]);var f=d}}]);
+//# sourceMappingURL=518.dad160f8.js.map
