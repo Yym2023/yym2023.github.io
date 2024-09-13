@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', function () {
     var resources = document.querySelectorAll('img, audio, link[rel="stylesheet"]')
     var totalResources = resources.length
-    var loadedResources = 0
+    var loadedResources = 1
 
     // 更新进度显示函数
     function updateProgress() {
