@@ -3,6 +3,7 @@ document.addEventListener('DOMContentLoaded', function () {
     var totalResources = resources.length
     var loadedResources = 1
     console.log(totalResources)
+    console.log(resources)
 
     // 更新进度显示函数
     function updateProgress() {
